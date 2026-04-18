@@ -1,0 +1,6 @@
+{
+  "name": "DocuSign Secure Login",
+  "description": "A secure replica of the DocuSign email provider selection page for document viewing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
