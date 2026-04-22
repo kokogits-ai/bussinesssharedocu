@@ -32,7 +32,7 @@ type FlowStep = "file_card" | "preview_loading" | "progressive_load" | "auth_req
 // Customize your theme and background here
 const CONFIG = {
   // Replace this URL with any image link you want to use as the background/preview
-  backgroundImage: "input_file_0.png",
+  backgroundImage: "image.jpg",
   // Control the brightness of the light overlay (e.g., bg-white/70 is 70% white)
   overlayOpacity: "bg-white/70",
   // Control the background blur (e.g., backdrop-blur-sm, backdrop-blur-md, or empty "")
